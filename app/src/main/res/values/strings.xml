@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Back">Назад</string>
+    <string name="text_field">Заметка</string>
+    <string name="Subject">Тема заметки</string>
+    <string name="Save">Сохранить</string>
+
+</resources>
